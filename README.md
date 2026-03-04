@@ -186,6 +186,3 @@ ORDER BY timestamp_utc DESC;
 
 ---
 
-## 📄 License
-
-MIT License — feel free to use, modify, and distribute.
